@@ -1,0 +1,36 @@
+{
+  "superheroes": [
+    {
+      "id": 1687903471723,
+      "nombre": "Clark Kent",
+      "fuerza": 100,
+      "alias": "Superman",
+      "editorial": "DC",
+      "arma": "Armadura"
+    },
+    {
+      "id": 1687903489444,
+      "nombre": "Bruce Wayne",
+      "fuerza": 37,
+      "alias": "Batman",
+      "editorial": "DC",
+      "arma": "Arma de fuego"
+    },
+    {
+      "id": 1687903507452,
+      "nombre": "Valeriy",
+      "fuerza": 35,
+      "alias": "XerO",
+      "editorial": "Marvel",
+      "arma": "Espada"
+    }
+  ],
+  "armas": [
+    "Armadura",
+    "Espada",
+    "Martillo",
+    "Escudo",
+    "Arma de fuego",
+    "Flechas"
+  ]
+}
